@@ -1,3 +1,9 @@
-# Teoria eda
+# Teoria asignatura eda
 
-Abrir los proyectos de la carpeta CLionProjects utilizando el ide de CLion de jetbrains.
+### Contenido de cada proyecto de CLion. 
+
+- Algorithms: Algoritmos conocidos como binary search y más complejos como merge sort. 
+- Exams: Ejemplos de algoritmos que han aparecido en exámenes de años anteriores. 
+- GraphAlgorithms: Algoritmos de teoría de grafos (BFS, DFS, Dijkstra).
+- Lab1: Soluciones a ejercicios de la asignatura.
+

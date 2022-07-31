@@ -1,0 +1,8 @@
+#ifndef ALGORITHMS_SALTS_CAVALL_H
+#define ALGORITHMS_SALTS_CAVALL_H
+
+#include "utils.h"
+
+
+
+#endif //ALGORITHMS_SALTS_CAVALL_H

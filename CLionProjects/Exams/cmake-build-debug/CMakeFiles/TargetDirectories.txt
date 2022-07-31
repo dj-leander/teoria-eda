@@ -1,0 +1,3 @@
+/home/zoe/Desktop/upc/eda/CLionProjects/Exams/cmake-build-debug/CMakeFiles/Exams.dir
+/home/zoe/Desktop/upc/eda/CLionProjects/Exams/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zoe/Desktop/upc/eda/CLionProjects/Exams/cmake-build-debug/CMakeFiles/rebuild_cache.dir

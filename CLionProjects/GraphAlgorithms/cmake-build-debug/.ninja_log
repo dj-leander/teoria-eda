@@ -1,0 +1,24 @@
+# ninja log v5
+0	287	1653403135529588465	CMakeFiles/GraphAlgorithms.dir/forest.cpp.o	20e6150069926a84
+287	353	1653403135593587278	GraphAlgorithms	a35ab22f1ace8ce
+1	1472	1653401925959986948	CMakeFiles/GraphAlgorithms.dir/dfs.cpp.o	7e17f943efff0f1e
+0	11	1653513456294531793	build.ninja	184acca628e3b06c
+3	1641	1653401926127983862	CMakeFiles/GraphAlgorithms.dir/treasures_map.cpp.o	647f34085952d0b5
+3	1267	1653401925751990769	CMakeFiles/GraphAlgorithms.dir/zamburguesas.cpp.o	253e4fe41f30d9ad
+1	1387	1653401925871988565	CMakeFiles/GraphAlgorithms.dir/graphIOchar.cpp.o	4253c4c8dfe4fee3
+1	1599	1653401926083984670	CMakeFiles/GraphAlgorithms.dir/treasure_graph.cpp.o	54a1a62dd5d3a106
+2	1529	1653401926015985920	CMakeFiles/GraphAlgorithms.dir/painting_a_board.cpp.o	104b26818fbc468b
+0	290	1653403108818084092	CMakeFiles/GraphAlgorithms.dir/two_colors.cpp.o	5baf64fb6cb95f8
+1	556	1653403071926768595	CMakeFiles/GraphAlgorithms.dir/main.cpp.o	77bb16c736e5087
+2	1339	1653401925823989447	CMakeFiles/GraphAlgorithms.dir/bfs.cpp.o	960d82e0f1ad7f6
+17	891	1653514151627989673	CMakeFiles/GraphAlgorithms.dir/zamburguesas.cpp.o	253e4fe41f30d9ad
+1	900	1653514151631989691	CMakeFiles/GraphAlgorithms.dir/main.cpp.o	77bb16c736e5087
+2	928	1653514151663989833	CMakeFiles/GraphAlgorithms.dir/graphIOchar.cpp.o	4253c4c8dfe4fee3
+5	979	1653514151715990064	CMakeFiles/GraphAlgorithms.dir/painting_a_board.cpp.o	104b26818fbc468b
+6	992	1653514151727990118	CMakeFiles/GraphAlgorithms.dir/treasures_map.cpp.o	647f34085952d0b5
+3	1003	1653514151735990153	CMakeFiles/GraphAlgorithms.dir/bfs.cpp.o	960d82e0f1ad7f6
+2	1012	1653514151747990207	CMakeFiles/GraphAlgorithms.dir/treasure_graph.cpp.o	54a1a62dd5d3a106
+3	1013	1653514151751990224	CMakeFiles/GraphAlgorithms.dir/forest.cpp.o	20e6150069926a84
+4	1108	1653514151843990634	CMakeFiles/GraphAlgorithms.dir/two_colors.cpp.o	5baf64fb6cb95f8
+1	1119	1653514151855990687	CMakeFiles/GraphAlgorithms.dir/dfs.cpp.o	7e17f943efff0f1e
+1	786	1653514182352112390	CMakeFiles/GraphAlgorithms.dir/dijkstra.cpp.o	a7193d91cd9e9aaa

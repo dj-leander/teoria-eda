@@ -1,0 +1,18 @@
+# ninja log v5
+0	165	1654614820743763028	CMakeFiles/Algorithms.dir/n_reines.cpp.o	f821190f3e8266d8
+1	164	1654101430729989451	CMakeFiles/Algorithms.dir/salts_cavall.cpp.o	8c2fe1a1152bef77
+0	164	1654614846560123174	CMakeFiles/Algorithms.dir/main.cpp.o	a04d4332446c7c8b
+164	207	1654614846600121145	Algorithms	de1e875a9a77a5fa
+414	788	1654093506138115204	CMakeFiles/Algorithms.dir/permutacions.cpp.o	51e37c374a269167
+0	13	1654706552055925659	build.ninja	fc1eb628b0ffe98d
+1	491	1654093505842108379	CMakeFiles/Algorithms.dir/unimodality.cpp.o	601df42cd02c73cf
+1	503	1654102596030981627	CMakeFiles/Algorithms.dir/motxilla.cpp.o	4c904e4daa140a7a
+1	573	1654093505922110224	CMakeFiles/Algorithms.dir/binary_search.cpp.o	55704962230532a
+481	968	1654093506318119352	CMakeFiles/Algorithms.dir/quadrats_llatins.cpp.o	f27c83083de6f4ef
+5	626	1654093505974111423	CMakeFiles/Algorithms.dir/resistant_search.cpp.o	1f986c9a798d6e53
+1	481	1654093505830108102	CMakeFiles/Algorithms.dir/exponentiation.cpp.o	fdabba33b2d48da3
+1	588	1654093505938110593	CMakeFiles/Algorithms.dir/crazy_quim_sort_algorithm.cpp.o	99630f38586b231b
+13	414	1654093505762106534	CMakeFiles/Algorithms.dir/cadenes.cpp.o	3cc913fa168de2fe
+1	593	1654093505942110685	CMakeFiles/Algorithms.dir/mergesort.cpp.o	fcecda86b75b6dcb
+13	499	1654093505850108564	CMakeFiles/Algorithms.dir/prime.cpp.o	b97346471fd92e35
+5	509	1654093505858108748	CMakeFiles/Algorithms.dir/binary.cpp.o	aa05aa31a0bdc440
